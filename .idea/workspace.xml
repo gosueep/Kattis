@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d41ae5ad-50c1-4e24-81d7-7c3472b4666a" name="Changes" comment="" />
+    <list default="true" id="d41ae5ad-50c1-4e24-81d7-7c3472b4666a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Easy/EstimatingTheAreaOfACircle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Modulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/SMIL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Sibice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/SkruOp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Spavanac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Stopwatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/T9_Spelling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Tetration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Zanzibar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/ADifferentProblem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/IgnoreTheGarbage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/Pivot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/SpeedLimit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4/BuildingPyramids.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/BuildingPyramids.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4/HumanCannonball2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/HumanCannonball2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4/Template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4/TransitWoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/TransitWoes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4/Trik.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Trik.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4/Zamka.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Zamka.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4/ZamkaBad.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/ZamkaBad.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +40,20 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Kattis" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="29oViB3mHaSiXrYfHhCCfyUNxb3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,15 +61,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/1.4" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/Homework/Spring 2022/Programming Challenges (CSCI 290)/csci290/4_21/HailstoneSum.py" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\eugin\Desktop\Code Writeups\Kattis\1.4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HumanCannonball2">
-    <configuration name="BuildingPyramids" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.T9_Spelling">
+    <configuration name="EstimatingTheAreaOfACircle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kattis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -42,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.4/BuildingPyramids.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/EstimatingTheAreaOfACircle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -55,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HumanCannonball2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kattis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.4/HumanCannonball2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/Homework.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TransitWoes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="IgnoreTheGarbage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kattis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.4/TransitWoes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/IgnoreTheGarbage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Trik" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Pivot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kattis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.4/Trik.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/Pivot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zamka" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="T9_Spelling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kattis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.4/Zamka.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/T9_Spelling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HumanCannonball2" />
-        <item itemvalue="Python.TransitWoes" />
-        <item itemvalue="Python.Trik" />
-        <item itemvalue="Python.Zamka" />
-        <item itemvalue="Python.BuildingPyramids" />
+        <item itemvalue="Python.T9_Spelling" />
+        <item itemvalue="Python.EstimatingTheAreaOfACircle" />
+        <item itemvalue="Python.Pivot" />
+        <item itemvalue="Python.IgnoreTheGarbage" />
+        <item itemvalue="Python.Homework" />
       </list>
     </recent_temporary>
   </component>
@@ -170,5 +206,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Kattis" />
+    </ignored-roots>
   </component>
 </project>
