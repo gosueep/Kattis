@@ -1,31 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d41ae5ad-50c1-4e24-81d7-7c3472b4666a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Easy/EstimatingTheAreaOfACircle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/Homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/Modulo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/SMIL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/Sibice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/SkruOp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/Spavanac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/Stopwatch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/T9_Spelling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/Tetration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/Zanzibar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/ADifferentProblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/IgnoreTheGarbage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/Pivot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/SpeedLimit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d41ae5ad-50c1-4e24-81d7-7c3472b4666a" name="Changes" comment="Beat doppleganger">
+      <change afterPath="$PROJECT_DIR$/CP4/FloydWarshall/FloydWarshall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP4/FloydWarshall/allpairspaths/allpairspaths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP4/FloydWarshall/allpairspaths/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP4/MST/minspantree/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP4/MST/minspantree/minspantree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP4/MST/minspantree/prims.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP4/Sorting/magicsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP4/UnionFind/control/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP4/UnionFind/control/control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP4/UnionFind/unionfind/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP4/UnionFind/unionfind/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP4/UnionFind/unionfind/unionfind.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/alienlanguage/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge/alienlanguage/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/MST/Kruskal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/MST/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/UnionFind.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/ACM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/AveragesHard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Backspace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Bishops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/CoconutSplat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Crne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Faktor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Flying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/HotSprings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Inflation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/JudgingTroubles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Nine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/ReachableRoads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/RoamingRomans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/SevenWonders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/TakeTwoStones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/TheLastProblem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/bubbletea/bubbletea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/bubbletea/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/commercials/commercials.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/commercials/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/lastfactorialdigit/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/lastfactorialdigit/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/lastfactorialdigit/lastfactorialdigit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/pot/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/pot/pot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/prsteni.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/relocation/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/relocation/relocation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/10KindsOfPeople.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/AlphabetAnimals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/FinancialPlanning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/Grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/GuessTheNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/Hopscotch50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/Jackpot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/NarrowArtGallery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/Ones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/RobotsOnAGrid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/RoomPainting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/ShortestPath1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/ShortestPath2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/ShortestPath3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/SmallestMultiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/TicketCompleted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/TravelingMonk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/VerifyThisYourMajesty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/Zagrade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/bank/bank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/bank/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/bank/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/bank/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetosavelives/codetosavelives.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetosavelives/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetosavelives/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetosavelives/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gandalfsspell/gandalfsspell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gandalfsspell/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gandalfsspell/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gandalfsspell/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headguard/headguard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headguard/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sacredtexts/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sacredtexts/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sacredtexts/sacredtexts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Kattis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kattis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4/BuildingPyramids.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/BuildingPyramids.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4/HumanCannonball2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/HumanCannonball2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4/Template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4/TransitWoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/TransitWoes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4/Trik.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Trik.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4/Zamka.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Zamka.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4/ZamkaBad.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/ZamkaBad.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,60 +124,27 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/Homework/Spring 2022/Programming Challenges (CSCI 290)/csci290/4_21/HailstoneSum.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Medium" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eugin\Desktop\Code Writeups\Kattis\Medium" />
       <recent name="C:\Users\eugin\Desktop\Code Writeups\Kattis\1.4" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eugin\Desktop\Code Writeups\Kattis\CP4\MST\minspantree" />
+      <recent name="C:\Users\eugin\Desktop\Code Writeups\Kattis\CP4\MST" />
+      <recent name="C:\Users\eugin\Desktop\Code Writeups\Kattis\CP4\UnionFind\unionfind" />
+      <recent name="C:\Users\eugin\Desktop\Code Writeups\Kattis\CP4\FloydWarshall\allpairspaths" />
+      <recent name="C:\Users\eugin\Desktop\Code Writeups\Kattis\CP4\FloydWarshall" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.T9_Spelling">
-    <configuration name="EstimatingTheAreaOfACircle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kattis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/EstimatingTheAreaOfACircle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kattis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/Homework.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="IgnoreTheGarbage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.gandalfsspell">
+    <configuration name="FinancialPlanning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kattis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/IgnoreTheGarbage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/FinancialPlanning.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +165,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pivot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MagicalWellOfLilies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kickstart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Kickstart/RoundH" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Kickstart/RoundH/MagicalWellOfLilies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zagrade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kattis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +198,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/Pivot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/Zagrade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="T9_Spelling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="allpairspaths" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kattis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,11 +215,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CP4/FloydWarshall" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/T9_Spelling.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\eugin\Desktop\Code Writeups\Kattis\CP4\FloydWarshall\allpairspaths\allpairspaths.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gandalfsspell" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kattis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gandalfsspell" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gandalfsspell/gandalfsspell.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.T9_Spelling" />
-        <item itemvalue="Python.EstimatingTheAreaOfACircle" />
-        <item itemvalue="Python.Pivot" />
-        <item itemvalue="Python.IgnoreTheGarbage" />
-        <item itemvalue="Python.Homework" />
+        <item itemvalue="Python.gandalfsspell" />
+        <item itemvalue="Python.FinancialPlanning" />
+        <item itemvalue="Python.allpairspaths" />
+        <item itemvalue="Python.Zagrade" />
+        <item itemvalue="Python.MagicalWellOfLilies" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +268,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653779550330</updated>
     </task>
+    <task id="LOCAL-00001" summary="Beat doppleganger">
+      <created>1662411454809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662411454809</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,8 +291,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/Kattis" />
     </ignored-roots>
+    <MESSAGE value="Beat doppleganger" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beat doppleganger" />
   </component>
 </project>

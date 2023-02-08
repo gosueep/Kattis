@@ -1,0 +1,1 @@
+print(sum([pow(x//10,x%10) for x in [int(input()) for _ in range(int(input()))]]))

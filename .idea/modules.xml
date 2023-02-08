@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Kattis.iml" filepath="$PROJECT_DIR$/.idea/Kattis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kickstart/.idea/Kickstart.iml" filepath="$PROJECT_DIR$/../Kickstart/.idea/Kickstart.iml" />
     </modules>
   </component>
 </project>
