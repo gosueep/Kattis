@@ -19,6 +19,6 @@ while True:
     angles = []
 
     for x, y in points:
-        angle = 
+        angle = 5
 
 
