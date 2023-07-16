@@ -1,3 +1,5 @@
+# Kruskal's
+
 import sys
 sys.setrecursionlimit(2 ** 30)
 
@@ -37,21 +39,22 @@ while True:
     if [N, M] == [0, 0]:
         break
 
-    edges = {}
+    edges = []
     for _ in range(M):
         src, dest, w = map(int, input().split())
-        edges[(src, dest)] = w
+        edges.append((src, dest, w))
 
-    s = sorted(edges, key=lambda x: edges[x], reverse=True)
+    s = sorted(edges, key=lambda x: x[2], reverse=True)
+    print(s)
 
     ufds = UnionFind(N)
-    mst = set()
+    mst = []
     mst_length = 0
-    while s:
-        src, dest = s.pop()
+    while s and len(mst) < N-1:
+        src, dest, w = s.pop()
         if ufds.find_set(src) != ufds.find_set(dest):
-            mst.add((src, dest))
-            mst_length += edges[(src, dest)]
+            mst_length += w
+            mst.append(sorted((src, dest)))
             ufds.union(src, dest)
 
     if ufds.numSets > 1:
@@ -59,6 +62,5 @@ while True:
     else:
         print(mst_length)
         for v in sorted(mst):
-            v = sorted(v)
             print(v[0], v[1])
 

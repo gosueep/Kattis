@@ -24,20 +24,25 @@ while True:
     # Init heap
     heap = []
     for dest, w in adjlist[first]:
-        heapq.heappush(heap, (w, (first, dest)))
+        heapq.heappush(heap, (w, first, dest))
 
-    print(heap)
-
-    mst = set()
+    mst = set([first])  # stores seen nodes
+    edges = []
     mst_length = 0
-    while len(mst) < N-1 and heap:
-        src, dest = heapq.heappop(heap)
+    while len(mst) < N and heap:
+        w, src, dest = heapq.heappop(heap)
+        
+        if dest not in mst:
+            mst.add(dest)
+            mst_length += w
+            edges.append(sorted((src, dest)))
+            for i, w in adjlist[dest]:
+                if i not in mst:
+                    heapq.heappush(heap, (w, dest, i))
 
-
-
-    if len(mst) != N-1:
+    if len(mst) != N:
         print('Impossible')
     else:
         print(mst_length)
-        for v in sorted(mst):
-            print(v[0], v[1])
+        for x, y in sorted(edges):
+            print(x, y)

@@ -1,5 +1,5 @@
 import sys
-
+input = sys.stdin.readline
 sys.setrecursionlimit(2 ** 30)
 
 
@@ -38,8 +38,9 @@ for _ in range(Q):
     a = int(a)
     b = int(b)
 
+    output = ''
     if op == '=':
         ufds.union(a, b)
     elif op == '?':
-        print('yes') if ufds.find_set(a) == ufds.find_set(b) else print('no')
-
+        output += 'yes' if ufds.find_set(a) == ufds.find_set(b) else 'no'
+    print(output)

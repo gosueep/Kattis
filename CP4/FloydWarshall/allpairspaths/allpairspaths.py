@@ -10,8 +10,11 @@ if __name__ == '__main__':
         weights = {}
         for _ in range(M):
             src, dest, weight = map(int, input().split())
-            weights[src, dest] = weight
-            d[src][dest] = weight
+            if (src, dest) in weights:
+                weights[src, dest] = min(weights[src, dest], weight)
+            else:
+                weights[src, dest] = weight
+            d[src][dest] = weights[src, dest]
 
         for node in range(N):
             d[node][node] = 0
@@ -29,3 +32,4 @@ if __name__ == '__main__':
                 print('Impossible')
             else:
                 print(d[src][dest])
+        print()
