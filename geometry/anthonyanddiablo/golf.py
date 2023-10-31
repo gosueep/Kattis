@@ -1,0 +1,1 @@
+a,n=map(float,input().split());print(['Need more materials!','Diablo is happy!'][3.5*a**.5<n])
