@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Shopaholic {
+public class shopaholic {
     public static void main(String[] args) {
         // Gets input
         Scanner s = new Scanner(System.in);
